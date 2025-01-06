@@ -3,7 +3,7 @@ Mempelajari dasar-dasar dan konsep lanjutan dalam pengembangan web yang sedang b
 
 HTML (HyperText Markup Language)
 - Struktur dasar halaman web.
-- Tag penting seperti <div>, <header>, <footer>, <a>, dll.
+- Tag penting seperti div, header, footer, a, dll.
 - Penggunaan atribut dan semantik HTML.
 
 CSS (Cascading Style Sheets)
